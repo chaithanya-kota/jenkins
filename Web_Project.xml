@@ -1,4 +1,4 @@
-<project name="AntExaMple" default="war">
+<project name="king" default="war">
 
 	<path id="mypath">	
 		<fileset dir="WebContent\WEB-INF\lib">		
