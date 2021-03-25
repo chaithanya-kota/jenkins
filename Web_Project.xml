@@ -1,4 +1,4 @@
-<project name="kingnellore" default="war">
+<project name="hingnellore" default="war">
 
 	<path id="mypath">	
 		<fileset dir="WebContent\WEB-INF\lib">		
